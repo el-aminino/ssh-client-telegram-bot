@@ -1,3 +1,4 @@
 re
 os
 python-telegram-bot==22.3
+paramiko==4.0.0
